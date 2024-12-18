@@ -16,7 +16,7 @@ Bacchus is the son of Jupiter.
 
 1. Read and parse configuration and resource definition from the YAML files.
 
-2. Copy required files to destination machines using golang lib for scp.
+2. Copy required files to destination machines using golang lib for scp "github.com/tmc/scp".
 
 3. Install required dependencies like Docker, Docker Compose, Postgres etc.
 

@@ -18,4 +18,4 @@ and Maenads, wild women who danced energetically during his festivals.
 1. Read and parse configuration and resource definition from the YAML files.
 2. Copy required files to remote destination machines using golang lib for scp "github.com/tmc/scp".
 3. Install required dependencies like Docker, Docker Compose, Postgres etc.
-4. Execute some particular commands on remote VMs.
+4. Execute some particular shell commands on remote VMs.

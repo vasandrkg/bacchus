@@ -16,7 +16,7 @@ and Maenads, wild women who danced energetically during his festivals.
 
 Actually Bacchus is the deploymnet utility for Dion Communication System.
 
-1. Read and parse configuration and resource definition from the YAML files.
+1. Read and parse configuration and resource definition from the YAML config files.
 2. Copy required files and Docker images to remote destination VMs or bare metal 
      machines using golang lib for scp "github.com/tmc/scp".
 3. Install required dependencies like Docker, Docker Compose, Postgres etc.

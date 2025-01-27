@@ -7,14 +7,14 @@ equivalent to the Greek god Dionysus.
 
 He is often seen with vines of grapes with him. 
 
-Dionysus was said to be the last god to join the twelve Olympians.
+Dionysus was said to be the last God to join the twelve Olympians.
 
 Supposedly, Hestia gave up her seat for him. 
 His plants were vines and twirling ivy. 
 He carried a pine cone-topped staff, and his followers were goat-footed Satyrs 
 and Maenads, wild women who danced energetically during his festivals.
 
-Actualy Bacchus is the installation utility for Dion Communication System.
+Actually Bacchus is the deploymnet utility for Dion Communication System.
 
 1. Read and parse configuration and resource definition from the YAML files.
 2. Copy required files and Docker images to remote destination VMs or bare metal 

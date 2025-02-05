@@ -14,7 +14,7 @@ His plants were vines and twirling ivy.
 He carried a pine cone-topped staff, and his followers were goat-footed Satyrs 
 and Maenads, wild women who danced energetically during his festivals.
 
-Actually Bacchus is the deploymnet utility for Dion Communication System.
+Actually Bacchus is the deployment utility for Dion Communication System.
 
 1. Read and parse configuration and resource definition from the YAML config files.
 2. Copy required files and Docker images to remote destination VMs or bare metal 
